@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Rust build output
+/target
+
+# Bundled binaries (too large for git; download them into bin/ - see README)
+/bin/*
+!/bin/.gitkeep
+!/bin/README.md
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
