@@ -23,9 +23,8 @@
    ```
 3. รันบอท:
    ```
-   run.bat
+   cargo run --release
    ```
-   (หรือ `cargo run --release`)
 
 ## การตั้งค่า (`.env`)
 | ตัวแปร | จำเป็น | คำอธิบาย |

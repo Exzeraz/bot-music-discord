@@ -23,9 +23,8 @@ A Discord music bot written in Rust ([serenity](https://github.com/serenity-rs/s
    ```
 3. Run:
    ```
-   run.bat
+   cargo run --release
    ```
-   (or `cargo run --release`)
 
 ## Configuration (`.env`)
 | Variable | Required | Description |
