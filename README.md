@@ -44,3 +44,7 @@ bin/        yt-dlp and ffmpeg binaries (git-ignored)
 src/        bot source (main, player, spotify, ytdl, log)
 .env        your local config (git-ignored)
 ```
+
+## License
+
+[The Unlicense](LICENSE) - public domain.

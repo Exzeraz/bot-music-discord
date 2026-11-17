@@ -44,3 +44,7 @@ bin/        ไฟล์ yt-dlp และ ffmpeg (ไม่เก็บใน gi
 src/        โค้ดบอท (main, player, spotify, ytdl, log)
 .env        ค่าตั้งค่าในเครื่อง (ไม่เก็บใน git)
 ```
+
+## สัญญาอนุญาต
+
+[The Unlicense](LICENSE) - สาธารณสมบัติ (public domain)
